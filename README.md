@@ -1,7 +1,7 @@
 # Data Wrangling Practice  🐼
 
 This is basic of data wrangling which i covers today and learnt too much about data wrangling
-This repository contains my practice notebook on data wrangling and preprocessing using Python and pandas.  
+This repository contains my practice notebook on data wrangling.  
 It covers practical techniques for cleaning, transforming, and preparing data for analysis.
 
 ## 📌 Topics Covered
@@ -24,6 +24,11 @@ To build a strong foundation in data cleaning and transformation — turning raw
 - numpy
 - seaborn
 - matplotlib
+
+## Feedback
+- I welcome feedback and suggestions!
+- If you notice anything that could be improved, or if you have ideas to make this clear and more helpful please feel free to submit pull request.
+- Your comments and commits are very helpful in improving skills
 
 ## ✏️ Author
 Muhammad Fahad Malik
